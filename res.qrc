@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Image/11.png</file>
+        <file>Image/butterfly.png</file>
+        <file>Image/butterfly1.png</file>
+        <file>Image/down.png</file>
+        <file>Image/Frame.jpg</file>
+        <file>Image/Luffy.png</file>
+        <file>Image/mario.gif</file>
+        <file>Image/Sunny.jpg</file>
+        <file>Image/sunny.png</file>
+        <file>Image/up.png</file>
+        <file>Image/bold.svg</file>
+        <file>Image/clear.svg</file>
+        <file>Image/color.svg</file>
+        <file>Image/italic.svg</file>
+        <file>Image/save.svg</file>
+        <file>Image/underline.svg</file>
+    </qresource>
+</RCC>
