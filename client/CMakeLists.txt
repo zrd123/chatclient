@@ -19,7 +19,6 @@ set(PROJECT_SOURCES
         src/dialog.cpp
         src/chatclient.cpp
 
-
         include/mainwindow.h
         include/dialoglist.h
         include/dialog.h
